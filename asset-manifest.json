@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Antipoff-test/static/css/main.925855c7.css",
+    "main.js": "/Antipoff-test/static/js/main.0b11f8bd.js",
+    "index.html": "/Antipoff-test/index.html",
+    "main.925855c7.css.map": "/Antipoff-test/static/css/main.925855c7.css.map",
+    "main.0b11f8bd.js.map": "/Antipoff-test/static/js/main.0b11f8bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.925855c7.css",
+    "static/js/main.0b11f8bd.js"
+  ]
+}
