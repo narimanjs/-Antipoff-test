@@ -1,0 +1,81 @@
+.container {
+  text-align: center;
+  padding: 20px;
+  background-color: white;
+  min-height: 100vh;
+  color: white;
+  position: relative;
+}
+
+.header {
+  background-color: #5a2d82;
+  color: white;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 20px;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.header .userDetails {
+  display: flex;
+  align-items: center;
+}
+
+.header img {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  /* margin-right: 20%; */
+}
+
+.header .name {
+  font-size: 36px;
+  margin: 0;
+  text-align: left;
+}
+
+.backButton,
+.logoutButton {
+  background-color: #5a2d82;
+  color: white;
+  border: 1px solid white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.details {
+  background-color: white;
+  color: #333;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 800px;
+  text-align: left;
+  display: flex;
+  justify-content: space-between;
+}
+
+.description {
+  flex: 2;
+  margin-right: 20px;
+}
+
+.contactInfo {
+  flex: 1;
+  margin-left: 20px;
+}
+
+.contactInfo p {
+  margin: 5px 0;
+  display: flex;
+  align-items: center;
+}
+
+.contactInfo svg {
+  margin-right: 10px;
+}

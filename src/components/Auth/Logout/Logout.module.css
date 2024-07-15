@@ -1,0 +1,18 @@
+.container {
+  padding: 20px;
+  text-align: center;
+}
+
+.message {
+  color: #5a2d82;
+  margin-bottom: 20px;
+}
+
+.backButton {
+  background-color: #5a2d82;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
